@@ -11,6 +11,10 @@ To get a more human-readable file, use ms_print::
 
     ms_print massif.out.????? > profile.txt
 
+More Info
+---------
+
 Credits how to use valgrind to http://www.shocksolution.com/2009/04/17/profiling-memory-usage-of-python-code/
+
 Post about this @ https://mattions.wordpress.com/2011/01/01/profiling-python-app/
 
